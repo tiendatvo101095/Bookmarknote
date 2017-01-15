@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "248058930144",
+    "firebase_url": "https://note-3771d.firebaseio.com",
+    "project_id": "note-3771d",
+    "storage_bucket": "note-3771d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248058930144:android:f253ef3dcbdc9061",
+        "android_client_info": {
+          "package_name": "com.example.tiendat.saveurl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248058930144-4dcv1g7tjlmu9mn3feaitp1dm8tvcmp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFWJTBhqvqiCRsgE6f3fWEEEVXqN6WyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
